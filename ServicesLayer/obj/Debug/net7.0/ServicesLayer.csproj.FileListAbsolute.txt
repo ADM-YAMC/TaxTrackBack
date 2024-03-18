@@ -1,0 +1,51 @@
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\bin\Debug\net7.0\ServicesLayer.deps.json
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\bin\Debug\net7.0\ServicesLayer.dll
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\bin\Debug\net7.0\ServicesLayer.pdb
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.AssemblyInfo.cs
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.dll
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\refint\ServicesLayer.dll
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.pdb
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ref\ServicesLayer.dll
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\bin\Debug\net7.0\DomainLayer.dll
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\bin\Debug\net7.0\RepositoryLayer.dll
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\bin\Debug\net7.0\DomainLayer.pdb
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\bin\Debug\net7.0\RepositoryLayer.pdb
+C:\Users\Alex\source\repos\TaxTrack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.csproj.CopyComplete
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\bin\Debug\net7.0\ServicesLayer.deps.json
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\bin\Debug\net7.0\ServicesLayer.dll
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\bin\Debug\net7.0\ServicesLayer.pdb
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\bin\Debug\net7.0\DomainLayer.dll
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\bin\Debug\net7.0\RepositoryLayer.dll
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\bin\Debug\net7.0\DomainLayer.pdb
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\bin\Debug\net7.0\RepositoryLayer.pdb
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\ServicesLayer.csproj.AssemblyReference.cache
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\ServicesLayer.AssemblyInfo.cs
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\Services.2D1E3DF1.Up2Date
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\ServicesLayer.dll
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\refint\ServicesLayer.dll
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\ServicesLayer.pdb
+C:\Users\Junior Moreta\Downloads\TaxTrackBack-dev\TaxTrackBack-dev\ServicesLayer\obj\Debug\net7.0\ref\ServicesLayer.dll
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\bin\Debug\net7.0\ServicesLayer.deps.json
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\bin\Debug\net7.0\ServicesLayer.dll
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\bin\Debug\net7.0\ServicesLayer.pdb
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\bin\Debug\net7.0\DomainLayer.dll
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\bin\Debug\net7.0\RepositoryLayer.dll
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\bin\Debug\net7.0\DomainLayer.pdb
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\bin\Debug\net7.0\RepositoryLayer.pdb
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.csproj.AssemblyReference.cache
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.AssemblyInfo.cs
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\Services.2D1E3DF1.Up2Date
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.dll
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\refint\ServicesLayer.dll
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\ServicesLayer.pdb
+C:\Users\Junior Moreta\Downloads\Alex\TaxTrackBack\ServicesLayer\obj\Debug\net7.0\ref\ServicesLayer.dll

@@ -1,0 +1,146 @@
+[
+  {
+    "ContainingType": "TaxTrack.Controllers.ContribuyenteFiscalController",
+    "Method": "GetAll",
+    "RelativePath": "api/ContribuyenteFiscal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ServicesLayer.DTO.Response\u00601[[DomainLayer.Models.ContribuyenteFiscal, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaxTrack.Controllers.ContribuyenteFiscalController",
+    "Method": "AddContribuyenteFiscalAsync",
+    "RelativePath": "api/ContribuyenteFiscal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contribuyente",
+        "Type": "DomainLayer.Models.ContribuyenteFiscal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ServicesLayer.DTO.Response\u00601[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaxTrack.Controllers.ContribuyenteFiscalController",
+    "Method": "UpdateContribuyenteFiscalAsync",
+    "RelativePath": "api/ContribuyenteFiscal",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contribuyente",
+        "Type": "DomainLayer.Models.ContribuyenteFiscal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ServicesLayer.DTO.Response\u00601[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaxTrack.Controllers.TipoContribuyenteController",
+    "Method": "GetAll",
+    "RelativePath": "api/TipoContribuyente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ServicesLayer.DTO.Response\u00601[[DomainLayer.Models.TipoContribuyente, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaxTrack.Controllers.TipoContribuyenteController",
+    "Method": "AddContribuyenteFiscalAsync",
+    "RelativePath": "api/TipoContribuyente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoContribuyente",
+        "Type": "DomainLayer.Models.TipoContribuyente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ServicesLayer.DTO.Response\u00601[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaxTrack.Controllers.TipoContribuyenteController",
+    "Method": "UpdateContribuyenteFiscalAsync",
+    "RelativePath": "api/TipoContribuyente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoContribuyente",
+        "Type": "DomainLayer.Models.TipoContribuyente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ServicesLayer.DTO.Response\u00601[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
